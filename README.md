@@ -1,4 +1,12 @@
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Testing with Jest and Enzyme.
+Used TDD approach during development.
+
+
+
+
 
 ## Available Scripts
 
